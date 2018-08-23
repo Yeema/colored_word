@@ -192,7 +192,7 @@
 SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線的Ari站的3號出口出站，左轉進入Phahon Yothin 7巷，再左轉進入Ari 2巷約50公尺，店家位於左手邊
 2. TACO TAXI墨西哥玉米餅快餐車 : 每日PM17:00～AM02:00 Sukhumvit路11巷內，Ambassador飯店前，從[BTS線的NANA站]步行前往約5-10分鐘
 3. Pizza Service披薩快餐車 : 每日PM19:30～PM22:00 Sukhumvit路11巷內，Ambassador飯店前，從BTS線的NANA站步行約5-10分鐘（旁邊就是Taco Taxi）
-### 芒果糯米飯比較:
+### [芒果糯米飯比較]
 1. 歷史最悠久且品質最好: [Kor Panich ก. พานิช]
 2. 口味最多元: [Chor Sornkeaw]
 3. 最便宜方便且口味算不錯: Terminal 21 Pier21美食街甜點店
@@ -235,3 +235,4 @@ SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線�
 [Kor Panich ก. พานิช]: http://bangkokgoplay.pixnet.net/blog/post/65243440-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E5%90%83%E7%9A%846%E9%96%93%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3
 [Chor Sornkeaw]: http://bangkokgoplay.pixnet.net/blog/post/65243440-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E5%90%83%E7%9A%846%E9%96%93%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3
 [芒果糯米飯]: http://bangkokgoplay.pixnet.net/blog/post/65243440-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E5%90%83%E7%9A%846%E9%96%93%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3
+[芒果糯米飯比較]: http://bangkokgoplay.pixnet.net/blog/post/65243440-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E5%90%83%E7%9A%846%E9%96%93%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3
