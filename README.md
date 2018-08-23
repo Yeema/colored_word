@@ -8,7 +8,7 @@
 >Gourmet market==>零食比bigc便宜<br />
 
 ## MRT Hua Lamphong
-1. See Morakot 
+1. [Si Morakot] 
    * 燒肉飯店
    * 80-82 Soi Sukon 1, Trimitr Road, Talat Noi, Samphanthawong, Bangkok 1010
 ## MRT Sukhumvit
@@ -21,13 +21,8 @@
    * 泰國料理
    * Terminal 21商城後面
    * 1號出口，出站後沿著Asok路往北走，右手邊可看到帆船造型的Grand Millenium飯店，再往前一點遇到第一條巷子左轉進去，就位於左手邊
-   
-
-3. [Thonkrueng]
-   * 超推泰國料理，大部分的菜都一百多
-   * 11：00~22：30
 ## BTS siam站
-1. Somtam-Nua
+1. [Somtam-Nua]
     * 糯米和米線 碳烤豬頸肉 香酥炸雞 東北辣拌碎肉 熱炒米線拌肉鬆 東北酸辣豬肉湯 涼拌青木瓜鹹蛋沙拉
 2. LEE牛仔褲
     * Siam Paragon
@@ -53,17 +48,17 @@
 3. [Best Beef 269泰銖燒烤吃到飽]
     * 有大頭蝦 ==> 到blog看菜單
 ## BTS Sala Deng站
-1. 勝英發ชวนเสวย
+1. [勝英發ชวนเสวย]
     * 每天 09:30-19.00
     * 推薦 : 紅燒肉飯
     * 4號出口直走不用1分鐘
 ## BTS Saphan Taksin站
-1. Charoen Saeng Silomเจริญแสงสีลม
+1. [Charoen Saeng Silomเจริญแสงสีลม]
     * 每天08:30-14:00
     * 超級大推的豬腳!!!!必吃必吃
     * 3號出口，往前直走約10分鐘路程
 ## BTS NANA （E3)
-1. Nefertiti
+1. [Nefertiti] : http://bangkokgoplay.pixnet.net/blog/post/56533308-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%B3%95%E8%80%81%E7%8E%8B%E4%B9%9F%E6%84%9B%E5%90%83%E4%B9%8B%E4%B8%AD%E6%9D%B1%E9%A4%90%E5%BB%B3-nefertit
     * 中東菜 
     * 1號出口直走，至3/1巷右轉進去直走就看的到了，步行約10分鐘路程
 ## BTS Ekkamai（E7)
@@ -84,7 +79,8 @@
     * 烤吐司 飲料 
     * 每天11.00 -21.00 
     * 4號出口出來後直走，然後看見右手邊有個出口，右轉就會看見MBK，MBK百貨2樓
-  
+    
+[Si Morakot]: http://oniyomeryori.blogspot.com/2013/09/si-morakot.html  
 [Bharani & Sansab Restaurant ภรณี-แสนแสบ]: http://bangkokgoplay.pixnet.net/blog/post/64044280-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%8D%B7%E9%81%8B%E9%99%84%E8%BF%91%E7%9A%84%E8%80%81%E5%AD%97%E8%99%9F%E9%A4%90%E9%A4%A8%EF%BC%8C%E4%B8%80%E6%AC%A1%E5%A0%B1
 [Madam Saranair]: http://qpjj.pixnet.net/blog/post/5713432-%E3%80%90%E6%9B%BC%E8%B0%B7%E3%80%91%E5%B9%B3%E5%83%B9%E3%80%81%E9%81%93%E5%9C%B0%E3%80%81%E4%BA%A4%E9%80%9A%E5%8F%88%E6%96%B9%E4%BE%BF%E7%9A%84%E6%B3%B0%E5%BC%8F%E9%A4%90%E5%BB%B3
 [Thonkrueng]: http://bangkokgoplay.pixnet.net/blog/post/49183298
@@ -95,3 +91,6 @@
 [Best Beef 269泰銖燒烤吃到飽]: http://bangkokgoplay.pixnet.net/blog/post/66817956
 [SABAIJAI KEBTAWAN]: http://bangkokgoplay.pixnet.net/blog/post/15931437
 [Mont Nomsod]: http://bangkokgoplay.pixnet.net/blog/post/60650677-%E6%B3%B0%E5%9C%8B%E8%80%81%E9%A5%95%E9%A6%96%E9%81%B8%E7%83%A4%E5%90%90%E5%8F%B8%E5%82%B3%E5%A5%87%E8%80%81%E5%BA%97----mont-nomsod
+[Somtam-Nua]: https://mimihan.tw/somtam-nua/
+[勝英發ชวนเสวย]: http://blog.udn.com/traveldanny/12962050
+[Charoen Saeng Silomเจริญแสงสีลม]: http://bangkokgoplay.pixnet.net/blog/post/64044280-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%8D%B7%E9%81%8B%E9%99%84%E8%BF%91%E7%9A%84%E8%80%81%E5%AD%97%E8%99%9F%E9%A4%90%E9%A4%A8%EF%BC%8C%E4%B8%80%E6%AC%A1%E5%A0%B1
