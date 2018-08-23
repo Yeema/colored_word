@@ -101,7 +101,7 @@
 2. Tesco Lotus 
     * 最在地化、價格最低廉、全泰國分店數目最多
 ## [日本巷]
-    * 搭乘曼谷捷運BTS至（E5）Phrom Phong站5號出口直行，遇到的第一條巷子右轉就是日本巷
+> 搭乘曼谷捷運BTS至（E5）Phrom Phong站5號出口直行，遇到的第一條巷子右轉就是日本巷
 ## 吃到飽
 1. Gustoso Internatiomal Buffet Restaurant
     * AM10:00-PM10:00
