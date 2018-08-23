@@ -47,32 +47,32 @@
     * 4號出口
 ## BTS on nut站
 1. [平價按摩]
-  * 一小時200泰銖
+    * 一小時200泰銖
 2. [泰式串燒]
-  * 只要6泰銖
+    * 只要6泰銖
 3. [Best Beef 269泰銖燒烤吃到飽]
-  * 有大頭蝦 ==> 到blog看菜單
+    * 有大頭蝦 ==> 到blog看菜單
 ## BTS Sala Deng站
 1. 勝英發ชวนเสวย
-  * 每天 09:30-19.00
-  * 推薦 : 紅燒肉飯
-  * 4號出口直走不用1分鐘
+    * 每天 09:30-19.00
+    * 推薦 : 紅燒肉飯
+    * 4號出口直走不用1分鐘
 ## BTS Saphan Taksin站
 1. Charoen Saeng Silomเจริญแสงสีลม
-  * 每天08:30-14:00
-  * 超級大推的豬腳!!!!必吃必吃
-  * 3號出口，往前直走約10分鐘路程
+    * 每天08:30-14:00
+    * 超級大推的豬腳!!!!必吃必吃
+    * 3號出口，往前直走約10分鐘路程
 ## BTS NANA （E3)
 1. Nefertiti
-  * 中東菜 
-  * 1號出口直走，至3/1巷右轉進去直走就看的到了，步行約10分鐘路程
+    * 中東菜 
+    * 1號出口直走，至3/1巷右轉進去直走就看的到了，步行約10分鐘路程
 ## BTS Ekkamai（E7)
 1. [SABAIJAI KEBTAWAN]
-  * 道地東北料理
-  * 1號出口出站後，往Sukhumvit 63巷（Ekkamai）方向，轉搭計程車或摩托計程車，約5分鐘即可到達
+    * 道地東北料理
+    * 1號出口出站後，往Sukhumvit 63巷（Ekkamai）方向，轉搭計程車或摩托計程車，約5分鐘即可到達
 ## BTS Victory Monument（N3)
 1. Doy船麵ต้อยก๋วยเตี๋ยวเรือ
-  * AM07:00-PM17:00 3號出口下，順時鐘繞著勝利紀念碑的圓環走到橫向的Ratchawithi大馬路後，過馬路沿著Ratchawithi路右手邊走下去，再從18巷彎進去，步行約10-15分鐘
+    * AM07:00-PM17:00 3號出口下，順時鐘繞著勝利紀念碑的圓環走到橫向的Ratchawithi大馬路後，過馬路沿著Ratchawithi路右手邊走下去，再從18巷彎進去，步行約10-15分鐘
 ## BTS phrom phong站
 1. 猪肉面 : Roong Rueng
 2. [Thonkrueng] 
@@ -92,6 +92,6 @@
 [Siam soi 5]: http://bangkokgoplay.pixnet.net/blog/post/63351142
 [平價按摩]: http://bangkokgoplay.pixnet.net/blog/post/66817956
 [泰式串燒]: http://bangkokgoplay.pixnet.net/blog/post/66817956
-[泰式串燒]: http://bangkokgoplay.pixnet.net/blog/post/66817956
+[[Best Beef 269泰銖燒烤吃到飽]]: http://bangkokgoplay.pixnet.net/blog/post/66817956
 [SABAIJAI KEBTAWAN]: http://bangkokgoplay.pixnet.net/blog/post/15931437
 [Mont Nomsod]: http://bangkokgoplay.pixnet.net/blog/post/60650677-%E6%B3%B0%E5%9C%8B%E8%80%81%E9%A5%95%E9%A6%96%E9%81%B8%E7%83%A4%E5%90%90%E5%8F%B8%E5%82%B3%E5%A5%87%E8%80%81%E5%BA%97----mont-nomsod
