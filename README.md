@@ -110,7 +110,7 @@
 ## [百貨美食街]
 1. Terminal 21 – Pier 21 
     * BTS Asok站或MRT Sukhumvit站 ->Terminal 21百貨5樓
-	  * 推薦：涼拌青木瓜+炸雞（60元），涼拌海鮮泡麵（35元），魚鰾湯（40元），魚丸米粉清湯（30元），豬肉咖哩配白飯（40元），蝦醬臭魚拌飯（28元），泰式蚵仔煎（85元），芒果糯米飯（小35元; 大70元），榴槤糯米飯（30元），果汁冰沙（20-40元）
+    * 推薦：涼拌青木瓜+炸雞（60元），涼拌海鮮泡麵（35元），魚鰾湯（40元），魚丸米粉清湯（30元），豬肉咖哩配白飯（40元），蝦醬臭魚拌飯（28元），泰式蚵仔煎（85元），芒果糯米飯（小35元; 大70元），榴槤糯米飯（30元），果汁冰沙（20-40元）
 2. Siam Center – Food Republic 
     * 精緻的美食街料理，價格也有點偏高)
     * BTS Siam站 -> Siam Center百貨4樓
@@ -124,6 +124,42 @@
 5. Big C Ratchaprasong - Food Park (Big C Ratchadamri分店)
     * BTS Chit Lom站下車，再走路5-10分鐘 -> Big C Ratchaprasong百貨4樓
     * 推薦：燉雞腿湯麵（45元），烤鴨麵（55元），勾芡湯汁脆麵หมี่กรอบราดหน้า（45元），豬肉炒河粉ผัดซีอิ๊วหมู（40元），摩摩喳喳（30元），椰子口味冰淇淋（25元）
+## 中國城
+1. Aek（เอ็ก）
+	* 粿汁(各種豬內臟為料，配上粿片而成的特殊食物，似豬雜粿片湯)
+	* AM08:00-AM02:00 
+	* Yaowarat Road為單行道，順著車行方向的前段路上的左手邊，大家可以先找到”馬利興大金行”，就在旁邊的一樓店面
+2. XIE SHARK FIN魚翅
+	* PM6:00-AM01:30 
+	* Yaowarat Road為單行道，順著車行方向的前段路上的左手邊，大家可以先找到”馬利興大金行”，XIE魚翅就在Aek粿汁店旁邊
+3. Sweet Time甜品攤 
+	* Yaowarat Road為單行道，順著車行方向的前段路上的左手邊，大家可以先找到”馬利興大金行”，這兩家甜品攤就在XIE魚翅旁
+	* PM6:00-01:00
+4. Kanom Pang Aroi好吃麵包
+	* 烤吐司，上面淋上香蘭葉做的綠色卡斯達醬
+	* PM7:00-AM0030 
+	* Yaowarat Road為單行道，順著車行方向的前段路上的左手邊，先找到”馬利興大金行”，好吃麵包就在XIE魚翅附近
+基本上以上四家攤位距離都非常近，並不難找
+5. Nai Mong Hoi Thod蚵仔煎
+	* menu 第一項是脆煎蚵仔煎；第二是嫩煎蚵仔煎；第三是脆煎貽貝；第四是螃蟹炒飯
+	* AM11:00-PM9:30 
+	* 從Yaowarat路轉進Charoen Krung路，逆著車行方向，位於右手邊的廣肇別墅大門旁的巷子進去約10公尺，位於右手邊
+## 皇家農產品
+1. Doi Kham店
+	* 搭捷運到Thong-Lor站，出3號出口後，走約100多公尺後左轉進入Sukumvit soi 55，再繼續往前走大約270公尺，會看見右手邊有條小巷，進入小巷再走大概1~2分鐘，就會看見一棟叫FIFTY FIFTH的小型商場
+	* 1樓
+	* 一到五10：00-20：00 / 六到日 10：00-19：00。
+2. 廊曼機場店
+	* 位於機場2樓，接近8號出口的地方
+	* 每天的04：30-20：30
+3. 蘇瓦納布機場店
+	* 機場B1 
+	* 24 小時全年無休
+## [網路名店]
+1. LOOK AT ME BURGER漢堡快餐車 : 星期二至星期日，AM10:30～PM21:30
+SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線的Ari站的3號出口出站，左轉進入Phahon Yothin 7巷，再左轉進入Ari 2巷約50公尺，店家位於左手邊
+2. TACO TAXI墨西哥玉米餅快餐車 : 每日PM17:00～AM02:00 Sukhumvit路11巷內，Ambassador飯店前，從[BTS線的NANA站]步行前往約5-10分鐘
+3. Pizza Service披薩快餐車 : 每日PM19:30～PM22:00 Sukhumvit路11巷內，Ambassador飯店前，從BTS線的NANA站步行約5-10分鐘（旁邊就是Taco Taxi）
 	   
 [百貨美食街]: http://bangkokgoplay.pixnet.net/blog/post/58811968 
 [Gustoso Internatiomal Buffet Restaurant]: http://bangkokgoplay.pixnet.net/blog/post/56525490 
@@ -153,3 +189,4 @@
 [Or Tor Kor Market]: http://bangkokgoplay.pixnet.net/blog/post/65347912
 [Nang Loeng Market]: http://bangkokgoplay.pixnet.net/blog/post/64044598
 [下酒菜餅乾]: http://bangkokgoplay.pixnet.net/blog/post/60949183
+[網路名店]: http://bangkokgoplay.pixnet.net/blog/post/62696273
