@@ -124,7 +124,7 @@
 5. Big C Ratchaprasong - Food Park (Big C Ratchadamri分店)
     * BTS Chit Lom站下車，再走路5-10分鐘 -> Big C Ratchaprasong百貨4樓
     * 推薦：燉雞腿湯麵（45元），烤鴨麵（55元），勾芡湯汁脆麵หมี่กรอบราดหน้า（45元），豬肉炒河粉ผัดซีอิ๊วหมู（40元），摩摩喳喳（30元），椰子口味冰淇淋（25元）
-## 中國城
+## [中國城]
 1. Aek（เอ็ก）
 	* 粿汁(各種豬內臟為料，配上粿片而成的特殊食物，似豬雜粿片湯)
 	* AM08:00-AM02:00 
@@ -190,3 +190,4 @@ SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線�
 [Nang Loeng Market]: http://bangkokgoplay.pixnet.net/blog/post/64044598
 [下酒菜餅乾]: http://bangkokgoplay.pixnet.net/blog/post/60949183
 [網路名店]: http://bangkokgoplay.pixnet.net/blog/post/62696273
+[中國城]: http://bangkokgoplay.pixnet.net/blog/post/55815537-%E3%80%90%E6%9B%BC%E8%B0%B7%E3%80%91%E4%B8%AD%E5%9C%8B%E5%9F%8E%E8%B7%AF%E9%82%8A%E5%A4%A7%E6%8E%92%E6%AA%94%E7%BE%8E%E5%91%B3%E5%B0%8F%E5%90%83
