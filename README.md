@@ -89,7 +89,7 @@
 6. Lays泰式辣海鮮檸檬洋芋片
 ## 711
 1. [飲料]
-2. [下酒菜]
+2. [下酒菜餅乾]
 ## 菜市場
 1. [Or Tor Kor Market]
     * 較高級 
@@ -152,4 +152,4 @@
 [飲料]:　http://bangkokgoplay.pixnet.net/blog/post/60949183
 [Or Tor Kor Market]: http://bangkokgoplay.pixnet.net/blog/post/65347912
 [Nang Loeng Market]: http://bangkokgoplay.pixnet.net/blog/post/64044598
-[下酒菜]：http://bangkokgoplay.pixnet.net/blog/post/60949183
+[下酒菜餅乾]: http://bangkokgoplay.pixnet.net/blog/post/60949183
