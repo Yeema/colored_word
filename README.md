@@ -103,10 +103,10 @@
 ## [日本巷]
 > 搭乘曼谷捷運BTS至（E5）Phrom Phong站5號出口直行，遇到的第一條巷子右轉就是日本巷
 ## 吃到飽
-1. Gustoso Internatiomal Buffet Restaurant
+1. [Gustoso International Buffet Restaurant]
     * AM10:00-PM10:00
-	  * 可搭乘捷運BTS線至Chit Lom站（E1）或Siam站（CEN），再經由Sky Walk連接到Central World
-	  * 470泰銖
+    * 可搭乘捷運BTS線至Chit Lom站（E1）或Siam站（CEN），再經由Sky Walk連接到Central World
+    * 470泰銖
 ## [百貨美食街]
 1. Terminal 21 – Pier 21 
     * BTS Asok站或MRT Sukhumvit站 ->Terminal 21百貨5樓
@@ -192,3 +192,4 @@ SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線�
 [網路名店]: http://bangkokgoplay.pixnet.net/blog/post/62696273
 [中國城]: http://bangkokgoplay.pixnet.net/blog/post/55815537-%E3%80%90%E6%9B%BC%E8%B0%B7%E3%80%91%E4%B8%AD%E5%9C%8B%E5%9F%8E%E8%B7%AF%E9%82%8A%E5%A4%A7%E6%8E%92%E6%AA%94%E7%BE%8E%E5%91%B3%E5%B0%8F%E5%90%83
 [Lays泰式辣海鮮檸檬洋芋片]: http://bangkokgoplay.pixnet.net/blog/post/22571543-%E3%80%90%E6%B3%B0%E5%9C%8B%E9%9B%B6%E9%A3%9F%E3%80%91-lays%E6%B3%B0%E5%BC%8F%E8%BE%A3%E6%B5%B7%E9%AE%AE%E6%AA%B8%E6%AA%AC%E6%B4%8B%E8%8A%8B%E7%89%87
+[Gustoso International Buffet Restaurant]: http://findse.pixnet.net/blog/post/457865234-%E6%9B%BC%E8%B0%B7central-world-%E7%99%BE%E8%B2%A8%E5%85%AC%E5%8F%B8%EF%BD%9E470%E5%85%83%E5%90%83%E5%88%B0%E9%A3%BD%E7%9A%84gustoso
