@@ -5,7 +5,7 @@
    * 燒肉飯店
    * 80-82 Soi Sukon 1, Trimitr Road, Talat Noi, Samphanthawong, Bangkok 1010
 ## MRT Sukhumvit
-1. [Bharani & Sansab Restaurant ภรณี-แสนแสบ] [1]
+1. Bharani & Sansab Restaurant [ภรณี-แสนแสบ] [1]
    * 專賣泰式及西式料理的複合式餐廳
    * 每天 10.00–22.00
    * 推薦 : 紅咖哩雞肉(牛肉)煎餅 
