@@ -193,9 +193,9 @@ SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線�
 2. TACO TAXI墨西哥玉米餅快餐車 : 每日PM17:00～AM02:00 Sukhumvit路11巷內，Ambassador飯店前，從[BTS線的NANA站]步行前往約5-10分鐘
 3. Pizza Service披薩快餐車 : 每日PM19:30～PM22:00 Sukhumvit路11巷內，Ambassador飯店前，從BTS線的NANA站步行約5-10分鐘（旁邊就是Taco Taxi）
 ### 芒果糯米飯比較:
-歷史最悠久且品質最好: [Kor Panich ก. พานิช]
-口味最多元: [Chor Sornkeaw]
-最便宜方便且口味算不錯: Terminal 21 Pier21美食街甜點店
+1. 歷史最悠久且品質最好: [Kor Panich ก. พานิช]
+2. 口味最多元: [Chor Sornkeaw]
+3. 最便宜方便且口味算不錯: Terminal 21 Pier21美食街甜點店
 
 [百貨美食街]: http://bangkokgoplay.pixnet.net/blog/post/58811968 
 [Gustoso Internatiomal Buffet Restaurant]: http://bangkokgoplay.pixnet.net/blog/post/56525490 
