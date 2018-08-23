@@ -92,6 +92,6 @@
 [Siam soi 5]: http://bangkokgoplay.pixnet.net/blog/post/63351142
 [平價按摩]: http://bangkokgoplay.pixnet.net/blog/post/66817956
 [泰式串燒]: http://bangkokgoplay.pixnet.net/blog/post/66817956
-[[Best Beef 269泰銖燒烤吃到飽]]: http://bangkokgoplay.pixnet.net/blog/post/66817956
+[Best Beef 269泰銖燒烤吃到飽]: http://bangkokgoplay.pixnet.net/blog/post/66817956
 [SABAIJAI KEBTAWAN]: http://bangkokgoplay.pixnet.net/blog/post/15931437
 [Mont Nomsod]: http://bangkokgoplay.pixnet.net/blog/post/60650677-%E6%B3%B0%E5%9C%8B%E8%80%81%E9%A5%95%E9%A6%96%E9%81%B8%E7%83%A4%E5%90%90%E5%8F%B8%E5%82%B3%E5%A5%87%E8%80%81%E5%BA%97----mont-nomsod
