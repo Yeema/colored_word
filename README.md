@@ -115,7 +115,7 @@
 3. [BEST BEEF]
     * BTS On Nut 步行約10～15分鐘
     * 16：00～00：00
-4. [Seefood Land]
+4. [Seafood Land]
     * 5PM – 11PM (Tue – Sun)
     * 389฿ (不包括啤酒) ；459฿ (包括啤酒任喝)
     * 2小时
@@ -208,3 +208,4 @@ SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線�
 [Gustoso International Buffet Restaurant]: http://bangkokgoplay.pixnet.net/blog/post/56525490-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E8%AE%93%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E6%BB%BF%E6%84%8F%E7%9A%84gustoso-internatio
 [Ga-La-Sea Seafood buffet]: https://blake.com.tw/blog/post/ga-la-sea
 [BEST BEEF]: http://easonliu613.pixnet.net/blog/post/345169634-%E3%80%90%E6%B3%B0%E5%9C%8B-%E6%9B%BC%E8%B0%B7%E3%80%91269%E6%B3%B0%E9%8A%96%E7%87%92%E8%82%89%E5%90%83%E5%88%B0%E9%A3%BD-%E6%9B%BC%E8%B0%B7%E8%B6%85%E7%8B%82%E4%BA%BA
+[Seafood Land]: https://www.tripadvisor.com.tw/Restaurant_Review-g293916-d10783163-Reviews-Seafood_Land-Bangkok.html
