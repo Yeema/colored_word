@@ -1,5 +1,11 @@
 # Bangkok 必吃必買
 >水門市場綠色制服海南雞飯 KuangHeng
+>冬蔭功湯
+>脆皮三层肉 :Thanee Restaurant
+>魚湯: Khao Tom Pla Kimpo
+>蟹大餐 : Nhong Rim Klong (臥佛寺附近)
+>Gourmet market==>零食比bigc便宜
+
 ## MRT Hua Lamphong
 1. See Morakot 
    * 燒肉飯店
