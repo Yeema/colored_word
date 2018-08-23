@@ -46,7 +46,7 @@
 2. [泰式串燒]
     * 只要6泰銖
 3. [Best Beef 269泰銖燒烤吃到飽]
-    * 有大頭蝦 ==> 到blog看菜單
+    * 有大頭蝦 ==> 點連結看菜單
 ## BTS Sala Deng站
 1. [勝英發ชวนเสวย]
     * 每天 09:30-19.00
@@ -80,7 +80,54 @@
     * 烤吐司 飲料 
     * 每天11.00 -21.00 
     * 4號出口出來後直走，然後看見右手邊有個出口，右轉就會看見MBK，MBK百貨2樓
-    
+## 零食
+1. [煎米餅]（Khao Tan）
+2. 炸豬皮
+3. [冬蔭口味下酒零嘴]
+4. [蝦頭、魚片、芝士蛤蜊]
+5. [泡麵]
+6. Lays泰式辣海鮮檸檬洋芋片
+## 711
+1. [飲料]
+2. [下酒菜]
+## 菜市場
+1. [Or Tor Kor Market]
+    * 較高級 
+2. [Nang Loeng Market] 
+    * 文化，多傳統點心
+## 連鎖大賣場
+1. Big C 
+    * 泰國特色伴手禮品項多、一定金額以上可辦理退稅、連鎖門市多
+2. Tesco Lotus 
+    * 最在地化、價格最低廉、全泰國分店數目最多
+## [日本巷]
+    * 搭乘曼谷捷運BTS至（E5）Phrom Phong站5號出口直行，遇到的第一條巷子右轉就是日本巷
+## 吃到飽
+1. Gustoso Internatiomal Buffet Restaurant
+    * AM10:00-PM10:00
+	  * 可搭乘捷運BTS線至Chit Lom站（E1）或Siam站（CEN），再經由Sky Walk連接到Central World
+	  * 470泰銖
+## [百貨美食街]
+1. Terminal 21 – Pier 21 
+    * BTS Asok站或MRT Sukhumvit站 ->Terminal 21百貨5樓
+	  * 推薦：涼拌青木瓜+炸雞（60元），涼拌海鮮泡麵（35元），魚鰾湯（40元），魚丸米粉清湯（30元），豬肉咖哩配白飯（40元），蝦醬臭魚拌飯（28元），泰式蚵仔煎（85元），芒果糯米飯（小35元; 大70元），榴槤糯米飯（30元），果汁冰沙（20-40元）
+2. Siam Center – Food Republic 
+    * 精緻的美食街料理，價格也有點偏高)
+    * BTS Siam站 -> Siam Center百貨4樓
+	  * 推薦：鐵板海鮮冬粉煲(90元)，酸辣蝦仁火鍋湯配飯（128元），酸辣蝦仁湯拉麵（98元），豬腳飯（60元/加蛋15元），牛肉船麵（50元），單點自選熱炒（蔬菜15元起，肉類25元起），可麗餅（45元）
+3. Siam Paragon – Food Hall 
+    * BTS Siam站 -> Siam Paragon百貨G樓
+	  * 推薦：越南春捲（80元），海南雞飯（70元），腐乳湯麵（70元），叉燒蟹肉麵（75元）
+4. Platinum Fashion Mall - Food Court(水門市場) 
+    * BTS Chit Lom站 -> Platinum Fashion Mall百貨6樓
+	  * 推薦：豬肉沙嗲（60元），鴨肉米粉湯（50元），海南雞飯（40元），燉牛肉麵/粿條（55元），魚丸米粉湯（35元），泰式咖哩蓋飯（45元），椰子（60元/顆）
+5. Big C Ratchaprasong - Food Park (Big C Ratchadamri分店)
+    * BTS Chit Lom站下車，再走路5-10分鐘 -> Big C Ratchaprasong百貨4樓
+	  * 推薦：燉雞腿湯麵（45元），烤鴨麵（55元），勾芡湯汁脆麵หมี่กรอบราดหน้า（45元），豬肉炒河粉ผัดซีอิ๊วหมู（40元），摩摩喳喳（30元），椰子口味冰淇淋（25元）
+	   
+[百貨美食街]: http://bangkokgoplay.pixnet.net/blog/post/58811968 
+[Gustoso Internatiomal Buffet Restaurant]: http://bangkokgoplay.pixnet.net/blog/post/56525490 
+[日本巷]: http://bangkokgoplay.pixnet.net/blog/post/54219304     
 [Si Morakot]: http://oniyomeryori.blogspot.com/2013/09/si-morakot.html  
 [Bharani & Sansab Restaurant ภรณี-แสนแสบ]: http://bangkokgoplay.pixnet.net/blog/post/64044280-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%8D%B7%E9%81%8B%E9%99%84%E8%BF%91%E7%9A%84%E8%80%81%E5%AD%97%E8%99%9F%E9%A4%90%E9%A4%A8%EF%BC%8C%E4%B8%80%E6%AC%A1%E5%A0%B1
 [Madam Saranair]: http://qpjj.pixnet.net/blog/post/5713432-%E3%80%90%E6%9B%BC%E8%B0%B7%E3%80%91%E5%B9%B3%E5%83%B9%E3%80%81%E9%81%93%E5%9C%B0%E3%80%81%E4%BA%A4%E9%80%9A%E5%8F%88%E6%96%B9%E4%BE%BF%E7%9A%84%E6%B3%B0%E5%BC%8F%E9%A4%90%E5%BB%B3
@@ -98,3 +145,11 @@
 [Nefertiti]: http://bangkokgoplay.pixnet.net/blog/post/56533308-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%B3%95%E8%80%81%E7%8E%8B%E4%B9%9F%E6%84%9B%E5%90%83%E4%B9%8B%E4%B8%AD%E6%9D%B1%E9%A4%90%E5%BB%B3-nefertit
 [Doy船麵ต้อยก๋วยเตี๋ยวเรือ]: http://parchemn.pixnet.net/blog/post/297951487-2017%E6%9B%BC%E8%B0%B7%E5%88%9D%E8%A8%AA%EF%BC%8D%E5%88%B0%E5%8B%9D%E5%88%A9%E7%B4%80%E5%BF%B5%E7%A2%91%E7%AB%99%E5%90%83%E8%88%B9%E9%BA%B5%EF%BC%9Adoy-kuay
 [Roong Rueng]: https://www.tripadvisor.com.tw/Restaurant_Review-g293916-d3846998-Reviews-Rung_Ruang_Noodles-Bangkok.html
+[泡麵]: http://bangkokgoplay.pixnet.net/blog/post/48243412
+[煎米餅]: http://bangkokgoplay.pixnet.net/blog/post/57796161-%E6%96%B0%E4%B8%80%E5%AD%A3%E6%B3%B0%E5%9C%8B%E5%BF%85%E8%B2%B7%E4%BC%B4%E6%89%8B%E7%A6%AE--%E7%AC%AC%E4%B8%89%E5%BD%88%21%21
+[冬蔭口味下酒零嘴]: http://bangkokgoplay.pixnet.net/blog/post/60971806-%E6%B3%B0%E5%9C%8B%E4%BC%B4%E6%89%8B%E7%A6%AE%E7%AC%AC%E5%9B%9B%E5%BD%88--%E6%96%B0%E4%B8%80%E5%AD%A3%E6%B3%B0%E5%9C%8B%E5%BF%85%E8%B2%B7%E4%B9%8B%E7%99%BE%E5%85%83%E6%9C%89
+[蝦頭、魚片、芝士蛤蜊]: https://kknews.cc/zh-tw/food/g8ybx48.html
+[飲料]:　http://bangkokgoplay.pixnet.net/blog/post/60949183
+[下酒菜]：　http://bangkokgoplay.pixnet.net/blog/post/60949183
+[Or Tor Kor Market]: http://bangkokgoplay.pixnet.net/blog/post/65347912
+[Nang Loeng Market]: http://bangkokgoplay.pixnet.net/blog/post/64044598
