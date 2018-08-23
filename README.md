@@ -107,6 +107,19 @@
     * AM10:00-PM10:00
     * 可搭乘捷運BTS線至Chit Lom站（E1）或Siam站（CEN），再經由Sky Walk連接到Central World
     * 470泰銖
+2. [Ga-La-Sea Seafood buffet]
+    * 1600~0200
+    * MRT到泰國文化中心站
+    * 活蝦，還有現撈活魚，酒類的部份也能無限暢飲
+    * 泰銖399元
+3. [BEST BEEF]
+    * BTS On Nut 步行約10～15分鐘
+    * 16：00～00：00
+4. [Seefood Land]
+    * 5PM – 11PM (Tue – Sun)
+    * 389฿ (不包括啤酒) ；459฿ (包括啤酒任喝)
+    * 2小时
+    * 搭至BTS Punnawithi站再转搭taxi==>星期五至日建议提前预订哦，提早来这里吃了过后可顺便去Srinakarin火车夜市逛逛
 ## [百貨美食街]
 1. Terminal 21 – Pier 21 
     * BTS Asok站或MRT Sukhumvit站 ->Terminal 21百貨5樓
@@ -193,3 +206,5 @@ SUMMER STREET海鮮快餐車 : 星期一至星期六，PM16:00～PM22:00 BTS線�
 [中國城]: http://bangkokgoplay.pixnet.net/blog/post/55815537-%E3%80%90%E6%9B%BC%E8%B0%B7%E3%80%91%E4%B8%AD%E5%9C%8B%E5%9F%8E%E8%B7%AF%E9%82%8A%E5%A4%A7%E6%8E%92%E6%AA%94%E7%BE%8E%E5%91%B3%E5%B0%8F%E5%90%83
 [Lays泰式辣海鮮檸檬洋芋片]: http://bangkokgoplay.pixnet.net/blog/post/22571543-%E3%80%90%E6%B3%B0%E5%9C%8B%E9%9B%B6%E9%A3%9F%E3%80%91-lays%E6%B3%B0%E5%BC%8F%E8%BE%A3%E6%B5%B7%E9%AE%AE%E6%AA%B8%E6%AA%AC%E6%B4%8B%E8%8A%8B%E7%89%87
 [Gustoso International Buffet Restaurant]: http://bangkokgoplay.pixnet.net/blog/post/56525490-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E8%AE%93%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E6%BB%BF%E6%84%8F%E7%9A%84gustoso-internatio
+[Ga-La-Sea Seafood buffet]: https://blake.com.tw/blog/post/ga-la-sea
+[BEST BEEF]: http://easonliu613.pixnet.net/blog/post/345169634-%E3%80%90%E6%B3%B0%E5%9C%8B-%E6%9B%BC%E8%B0%B7%E3%80%91269%E6%B3%B0%E9%8A%96%E7%87%92%E8%82%89%E5%90%83%E5%88%B0%E9%A3%BD-%E6%9B%BC%E8%B0%B7%E8%B6%85%E7%8B%82%E4%BA%BA
