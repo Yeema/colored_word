@@ -118,8 +118,8 @@
 ## 連鎖大賣場
 1. Big C 
     * 泰國特色伴手禮品項多、一定金額以上可辦理退稅、連鎖門市多
-    * [bigc 伴手禮1]
-    * [bigc 伴手禮2]
+    * [bigc 零食伴手禮1]
+    * [bigc 零食伴手禮2]
 2. Tesco Lotus 
     * 最在地化、價格最低廉、全泰國分店數目最多
 ## [日本巷]
@@ -251,4 +251,5 @@
 [零食]: http://peko721.pixnet.net/blog/post/45658407
 [bigc 零食伴手禮1]: http://peko721.pixnet.net/blog/post/44624644-%E3%80%90%E6%B3%B0%E5%9C%8B%E5%BF%85%E8%B2%B7%E4%BC%B4%E6%89%8B%E7%A6%AE%E3%80%912018%E6%B3%B0%E5%9C%8B%E8%B6%85%E5%B8%82%E6%8E%A8%E8%96%A6%EF%BC%9A%E9%9B%B6%E9%A3%9F
 [bigc 零食伴手禮2]: http://cutiecherry.tw/2017-thai-snacks/
+[Maliwan Kanom Thai]: http://bangkokgoplay.pixnet.net/blog/post/65243440-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E5%90%83%E7%9A%846%E9%96%93%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3
 [Maliwan Kanom Thai]: http://bangkokgoplay.pixnet.net/blog/post/65243440-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E5%90%83%E7%9A%846%E9%96%93%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3
