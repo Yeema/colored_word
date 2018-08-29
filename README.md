@@ -112,9 +112,11 @@
 3. [零食]
 ## [菜市場]
 1. [Or Tor Kor Market](MOF)
-    * 較高級 
+    * 乾淨 較高級 
+    * 內部似黃昏市場
     * MRT Kamphaeng Phet 3號出口，對街是洽圖洽市集 
-2. Nang Loeng Market 
+2. [Nang Loeng Market] 
+    * 部份只營業到中午
     * 文化，多傳統點心
 ## 連鎖大賣場
 1. Big C 
@@ -237,6 +239,7 @@
 [蝦頭、魚片、芝士蛤蜊]: https://kknews.cc/zh-tw/food/g8ybx48.html
 [飲料]: http://bangkokgoplay.pixnet.net/blog/post/60949183
 [Or Tor Kor Market]: https://mamibuy.com.tw/talk/article/84445
+[Nang Loeng Market]: http://chanho85.blogspot.com/2013/04/nang-leong-market.html
 [菜市場]: http://bangkokgoplay.pixnet.net/blog/post/64044598
 [下酒菜餅乾]: http://bangkokgoplay.pixnet.net/blog/post/60949183
 [網路名店]: http://bangkokgoplay.pixnet.net/blog/post/62696273
