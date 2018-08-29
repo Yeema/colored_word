@@ -12,6 +12,7 @@
 3. [輕乳酪蛋糕]
 4. [巧克力尼蛋糕]
 5. [蛋塔]
+6. [重乳酪蛋糕]
 
 # 鹹食
 1. [蔥油餅]
@@ -30,3 +31,4 @@
 [義式捲餅麵包]: https://sophiesketochoice.com/keto-stromboli/
 [蛋塔]: https://sophiesketochoice.com/keto-egg-tart/
 [鹹酥雞]: https://sophiesketochoice.com/taiwanese-chicken-popcorn/
+[重乳酪蛋糕]: http://qqd365.pixnet.net/blog/post/400627538-%E9%87%8D%E4%B9%B3%E9%85%AA%E8%9B%8B%E7%B3%95%28%E7%94%9F%E9%85%AE%E7%89%88%29
