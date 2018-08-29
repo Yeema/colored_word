@@ -114,6 +114,7 @@
 1. [Or Tor Kor Market](MOF)
     * 乾淨 較高級 
     * 內部似黃昏市場
+    * 中午以前去比較熱鬧
     * MRT Kamphaeng Phet 3號出口，對街是洽圖洽市集 
 2. [Nang Loeng Market] 
     * 部份只營業到中午
