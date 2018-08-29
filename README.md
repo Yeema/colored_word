@@ -5,7 +5,7 @@
 >脆皮三层肉 :Thanee Restaurant<br />
 >魚湯: Khao Tom Pla Kimpo<br />
 >蟹大餐 : Nhong Rim Klong (臥佛寺附近)<br />
->Gourmet market==>零食比bigc便宜<br />
+>Siam Paragon Gourmet market==>零食比bigc便宜<br />
 
 ## MRT Hua Lamphong
 1. [Si Morakot] 
@@ -111,8 +111,9 @@
 2. [下酒菜餅乾]
 3. [零食]
 ## 菜市場
-1. [Or Tor Kor Market]
+1. [Or Tor Kor Market](MOF)
     * 較高級 
+    * MRT Kamphaeng Phet 3號出口，對街是洽圖洽市集 
 2. [Nang Loeng Market] 
     * 文化，多傳統點心
 ## 連鎖大賣場
