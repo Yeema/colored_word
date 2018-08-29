@@ -117,7 +117,7 @@
     * 中午以前去比較熱鬧
     * MRT Kamphaeng Phet 3號出口，對街是洽圖洽市集 
     * Kanomthai Kaopeenong(ขนมไทยเก้าพี่น้อง)[泰式甜點專賣店]是一間獨立店鋪，不在市場裡，在市場外圍馬路旁，位置較靠近市場美食中心。從地鐵站走出前往    請一直朝右前方走穿過市場便可到達
-    * 記得去 皇家計畫農產品專賣店
+    * 記得去 [皇家計畫農產品專賣店]
 2. [Nang Loeng Market] 
     * 部份只營業到中午
     * 文化，多傳統點心
@@ -263,3 +263,4 @@
 [Maliwan Kanom Thai]: http://bangkokgoplay.pixnet.net/blog/post/65243440-%E3%80%90%E6%9B%BC%E8%B0%B7%E7%BE%8E%E9%A3%9F%E3%80%91%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%80%BC%E5%BE%97%E4%B8%80%E5%90%83%E7%9A%846%E9%96%93%E8%8A%92%E6%9E%9C%E7%B3%AF%E7%B1%B3
 [bigc 零食伴手禮3]: https://wkitty.tw/blog/post/bangkok-big-c
 [泰式甜點專賣店]: http://crosserr.pixnet.net/blog/post/117263274-%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%A4%A7%E7%94%9F%E9%AE%AE%E5%B8%82%E5%A0%B4--or-tor-kor-market%28%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94-%E0%B8%AD
+[皇家計畫農產品專賣店]: http://crosserr.pixnet.net/blog/post/117263274-%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%A4%A7%E7%94%9F%E9%AE%AE%E5%B8%82%E5%A0%B4--or-tor-kor-market%28%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94-%E0%B8%AD
