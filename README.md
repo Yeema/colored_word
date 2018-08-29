@@ -110,11 +110,11 @@
 1. [飲料]
 2. [下酒菜餅乾]
 3. [零食]
-## 菜市場
+## [菜市場]
 1. [Or Tor Kor Market](MOF)
     * 較高級 
     * MRT Kamphaeng Phet 3號出口，對街是洽圖洽市集 
-2. [Nang Loeng Market] 
+2. Nang Loeng Market 
     * 文化，多傳統點心
 ## 連鎖大賣場
 1. Big C 
@@ -236,8 +236,8 @@
 [冬蔭口味下酒零嘴]: http://bangkokgoplay.pixnet.net/blog/post/60971806-%E6%B3%B0%E5%9C%8B%E4%BC%B4%E6%89%8B%E7%A6%AE%E7%AC%AC%E5%9B%9B%E5%BD%88--%E6%96%B0%E4%B8%80%E5%AD%A3%E6%B3%B0%E5%9C%8B%E5%BF%85%E8%B2%B7%E4%B9%8B%E7%99%BE%E5%85%83%E6%9C%89
 [蝦頭、魚片、芝士蛤蜊]: https://kknews.cc/zh-tw/food/g8ybx48.html
 [飲料]: http://bangkokgoplay.pixnet.net/blog/post/60949183
-[Or Tor Kor Market]: http://bangkokgoplay.pixnet.net/blog/post/65347912
-[Nang Loeng Market]: http://bangkokgoplay.pixnet.net/blog/post/64044598
+[Or Tor Kor Market]: https://mamibuy.com.tw/talk/article/84445
+[菜市場]: http://bangkokgoplay.pixnet.net/blog/post/64044598
 [下酒菜餅乾]: http://bangkokgoplay.pixnet.net/blog/post/60949183
 [網路名店]: http://bangkokgoplay.pixnet.net/blog/post/62696273
 [中國城]: http://bangkokgoplay.pixnet.net/blog/post/55815537-%E3%80%90%E6%9B%BC%E8%B0%B7%E3%80%91%E4%B8%AD%E5%9C%8B%E5%9F%8E%E8%B7%AF%E9%82%8A%E5%A4%A7%E6%8E%92%E6%AA%94%E7%BE%8E%E5%91%B3%E5%B0%8F%E5%90%83
