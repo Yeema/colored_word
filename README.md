@@ -4,7 +4,7 @@
 >魚湯: Khao Tom Pla Kimpo<br />
 >蟹大餐 : Nhong Rim Klong (臥佛寺附近)<br />
 >Siam Paragon Gourmet market==>零食比bigc便宜<br />
-<br>(以下小吃無推薦店家，隨意吃，都是必吃小吃~)[參考圖片點這~]
+<br>[以下小吃無推薦店家，隨意吃，都是必吃小吃~ 連結有參考圖片~]
 <br>各種現榨、現剖果汁(椰子汁、橘子汁、紅石榴汁)
 <br>泰式奶茶
 <br>香蕉煎餅
@@ -279,5 +279,5 @@
 [bigc 零食伴手禮3]: https://wkitty.tw/blog/post/bangkok-big-c
 [泰式甜點專賣店]: http://crosserr.pixnet.net/blog/post/117263274-%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%A4%A7%E7%94%9F%E9%AE%AE%E5%B8%82%E5%A0%B4--or-tor-kor-market%28%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94-%E0%B8%AD
 [皇家計畫農產品專賣店]: http://crosserr.pixnet.net/blog/post/117263274-%E6%9B%BC%E8%B0%B7%E6%9C%80%E5%A4%A7%E7%94%9F%E9%AE%AE%E5%B8%82%E5%A0%B4--or-tor-kor-market%28%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94-%E0%B8%AD
-[參考圖片點這~]: https://solomo.xinmedia.com/bugi/127855
+[以下小吃無推薦店家，隨意吃，都是必吃小吃~ 連結有參考圖片~]: https://solomo.xinmedia.com/bugi/127855
 [水門市場綠色制服海南雞飯 KuangHeng]: http://www.bugi.tw/2015/06/blog-post_4.html
