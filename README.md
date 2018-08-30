@@ -1,16 +1,16 @@
 # Bangkok 必吃必買
 >(以下為泰國特色小吃，但顧特定店家可能有些遠，看到可以參考)<br />
 >水門市場綠色制服海南雞飯 KuangHeng<br />
->冬蔭功湯<br />
 >脆皮三层肉 :Thanee Restaurant<br />
 >魚湯: Khao Tom Pla Kimpo<br />
 >蟹大餐 : Nhong Rim Klong (臥佛寺附近)<br />
 >Siam Paragon Gourmet market==>零食比bigc便宜<br />
+<br>(以下小吃無推薦店家，隨意吃，都是必吃小吃~)
 <br>各種現榨、現剖果汁(椰子汁、橘子汁、紅石榴汁)
 <br>泰式奶茶
 <br>香蕉煎餅
 <br>泰式炒麵(聽說只有考山夜市有!人手一盒，就是他了)
-<br>各種湯麵
+<br>各種湯麵 (ex: 冬蔭功湯!!!)
 <br>炸雞(泰國的炸雞基本上沒有吃難吃的，只有「好吃」和「超好吃」的差別)
 <br>各式烤肉串
 <br>泰式沙威瑪（Chicken Kabab）
