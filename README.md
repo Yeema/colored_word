@@ -6,7 +6,15 @@
 >魚湯: Khao Tom Pla Kimpo<br />
 >蟹大餐 : Nhong Rim Klong (臥佛寺附近)<br />
 >Siam Paragon Gourmet market==>零食比bigc便宜<br />
-
+<br>各種現榨、現剖果汁(椰子汁、橘子汁、紅石榴汁)
+<br>泰式奶茶
+<br>香蕉煎餅
+<br>泰式炒麵(聽說只有考山夜市有!人手一盒，就是他了)
+<br>各種湯麵
+<br>炸雞(泰國的炸雞基本上沒有吃難吃的，只有「好吃」和「超好吃」的差別)
+<br>各式烤肉串
+<br>泰式沙威瑪（Chicken Kabab）
+<br>路邊熱炒攤
 ## MRT Hua Lamphong
 1. [Si Morakot] 
    * 燒肉飯店
