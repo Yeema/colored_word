@@ -17,6 +17,7 @@
 # 鹹食
 1. [蔥油餅]
 2. [鹹酥雞]
+3. [魯虱目魚肚]
 
 [鹹蛋糕]: http://kii.pixnet.net/blog/post/45363381-%E2%9D%A4%E6%96%99%E7%90%86%E2%9D%A4%E7%94%9F%E9%85%AE%E9%A3%B2%E9%A3%9F%EF%BC%8D%E9%B9%B9%E8%9B%8B%E7%B3%95
 [芝麻餅乾/麵包]: http://kii.pixnet.net/blog/post/45345297
@@ -32,3 +33,4 @@
 [蛋塔]: https://sophiesketochoice.com/keto-egg-tart/
 [鹹酥雞]: https://sophiesketochoice.com/taiwanese-chicken-popcorn/
 [重乳酪蛋糕]: http://qqd365.pixnet.net/blog/post/400627538-%E9%87%8D%E4%B9%B3%E9%85%AA%E8%9B%8B%E7%B3%95%28%E7%94%9F%E9%85%AE%E7%89%88%29
+[魯虱目魚肚]: http://lulala987.blogspot.com/2017/08/blog-post_10.html
