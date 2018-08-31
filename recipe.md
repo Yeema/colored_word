@@ -18,6 +18,7 @@
 1. [蔥油餅]
 2. [鹹酥雞]
 3. [魯虱目魚肚]
+4. [酸奶煎鮭魚]
 
 [鹹蛋糕]: http://kii.pixnet.net/blog/post/45363381-%E2%9D%A4%E6%96%99%E7%90%86%E2%9D%A4%E7%94%9F%E9%85%AE%E9%A3%B2%E9%A3%9F%EF%BC%8D%E9%B9%B9%E8%9B%8B%E7%B3%95
 [芝麻餅乾/麵包]: http://kii.pixnet.net/blog/post/45345297
@@ -34,3 +35,4 @@
 [鹹酥雞]: https://sophiesketochoice.com/taiwanese-chicken-popcorn/
 [重乳酪蛋糕]: http://qqd365.pixnet.net/blog/post/400627538-%E9%87%8D%E4%B9%B3%E9%85%AA%E8%9B%8B%E7%B3%95%28%E7%94%9F%E9%85%AE%E7%89%88%29
 [魯虱目魚肚]: http://lulala987.blogspot.com/2017/08/blog-post_10.html
+[酸奶煎鮭魚]: http://stancy01.pixnet.net/blog/post/400830212-%3C%E7%94%9F%E9%85%AE%E4%BD%8E%E7%A2%B3%E7%BE%8E%E9%A3%9F%E5%88%86%E4%BA%AB%3E%E9%A6%99%E7%85%8E%E9%85%B8%E5%A5%B6%E9%A6%99%E6%96%99%E9%AE%AD%E9%AD%9A%E6%8E%92
